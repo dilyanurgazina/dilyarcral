@@ -70,11 +70,11 @@ nav a.active{
         top: 100%;
         right: 0;
         width:40%;
-        border-bottom: 3px solid #00415a;
+        border-bottom: 3px solid #fffef0;
         border-top-left-radius: 2rem;
-        padding:1rem solid #00415a;
-        background-color: #fffef0 ;
-        border-top: 0.1rem solid 	white (0,0,0,0.1);
+        padding:1rem solid #fffef0;
+        background-color: #00415a ;
+        border-top: 0.1rem solid 	#fffef0 (0,0,0,0.1);
     }
 
     nav.active{
@@ -246,5 +246,4 @@ span{
         margin-top:4rem ;
     }
 }
-
 
